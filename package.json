@@ -1,0 +1,22 @@
+{
+  "name": "hop",
+  "version": "1.0.0",
+  "description": "Late for classes and no buses available? Hop on to one of our cycles!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roerohan/Hop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roerohan/Hop/issues"
+  },
+  "homepage": "https://github.com/roerohan/Hop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
