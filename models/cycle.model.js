@@ -7,7 +7,7 @@ var cycleSchema = new mongoose.Schema({
         required: true,
         unique: true,
     },
-    modelName: {
+    model: {
         type: String,
         required: true
     },
