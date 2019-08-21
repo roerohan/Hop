@@ -23,6 +23,7 @@ Late for classes and no buses available? Hop on to one of our cycles!
 - Phone
 - Email
 - Reg. No
+- Password
 - Room No.
 - Credits
 - UPI Key (TBD)
